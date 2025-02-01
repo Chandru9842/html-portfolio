@@ -1,6 +1,6 @@
 # html-portfolio
 <!-- TODO 1: Create the HTML Boilerplate -->
- <!DOCTYPE html>
+ 
  <html lang="en">
  <head>
     <meta charset="UTF-8">
