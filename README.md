@@ -16,8 +16,8 @@
     <h3><a href="./public/birthday-invite.html">It's My birthday</a></h3>
     <h3><img src="./assets/images/birthday-invite.png" height="300"/></h3>
      <hr/>
-    <a href="./public/contact.html">Contact Me</a></h3>
-    <a href="./public/about.html">About Me</a></h3>
+    <h3><a href="./public/contact.html">Contact Me</a><h3>
+    </h3><a href="./public/about.html">About Me</a></h3>
 
     
  
